@@ -1,12 +1,9 @@
 ------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
+Shows rabbits moving on screen with a coin and an evil rabbit. Live data
+such as: score, number of moves, distance apart, and more are displayed.
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE: Rabbit Roamer
+PURPOSE OF PROJECT: Exploration into GUIs and paintComponent for Java Class
+VERSION or DATE: 1.0
+AUTHORS: Beth Fineberg
