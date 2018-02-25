@@ -2,7 +2,7 @@ import java.awt.Color;
 import javax.swing.JOptionPane;
 
 /**
- * Runs the program
+ * Runs the program.
  * 
  * @author Beckwith and Beth Fineberg
  * @version 0.1
