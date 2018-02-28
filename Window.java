@@ -5,7 +5,7 @@ import javax.swing.JComboBox;
 
 /**
  * Provides a window for buttons, entry boxes and displaying of grahpics
- * @author Beckwith & Beth Fineberg
+ * @author Beth Fineberg
  * @version 1.2.0
  */
 public class Window extends JFrame implements ActionListener
